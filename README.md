@@ -61,9 +61,9 @@ python trainModel.py
 ```bash 
 streamlit run app.py
  ```
-##Clone the repository, install dependencies, and run  
-##Thank You for Visiting!  
-### hope you founnd this project useful
+Clone the repository, install dependencies, and run  
+
+###Thank You for Visiting!  
 
 
 
