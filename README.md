@@ -24,12 +24,12 @@ Kaggle: Phishing Website URLs Dataset (https://www.kaggle.com/datasets/taruntiwa
 ## 📂 Project Structure
 PhishingWebsiteDetector/  
 │  
-├── app.py # Streamlit web app  
-├── trainModel.py # Model training script  
+├── app.py                 # Streamlit web app  
+├── trainModel.py          # Model training script  
 ├── phishing_site_urls.csv # Dataset  
-├── vectorizer.pkl # Saved TfidfVectorizer  
-├── log_model.pkl # Saved Logistic Regression model  
-├── requirements.txt # Python dependencies  
+├── vectorizer.pkl         # Saved TfidfVectorizer  
+├── log_model.pkl          # Saved Logistic Regression model  
+├── requirements.txt       # Python dependencies  
 └── README.md  
 
 
