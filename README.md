@@ -63,7 +63,7 @@ streamlit run app.py
  ```
 Clone the repository, install dependencies, and run  
 
-###Thank You for Visiting!  
+## Thank You for Visiting!  
 
 
 
