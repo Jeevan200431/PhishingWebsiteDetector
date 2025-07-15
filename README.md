@@ -34,6 +34,13 @@ PhishingWebsiteDetector/
 
 
 ---
+## 📊 Model Performance Summary  
+- **Logistic Regression:**  
+  Accuracy: **94%** | F1-Score: **0.92** | Training Time: 4.46 seconds  
+
+- **Decision Tree:**    
+  Accuracy: **85%** | F1-Score: **0.80** | Training Time: 8.44 seconds  
+---  
 
 ## ⚙️ How to Run Locally
 
@@ -46,14 +53,18 @@ cd PhishingWebsiteDetector
 ```bash
 pip install -r requirements.txt
 ```
--Traim model  
+-Train the model  
 ``` bash
 python trainModel.py
 ```
--run streamlit app  
+-To Run streamlit app  
 ```bash 
 streamlit run app.py
- ``` 
+ ```
+##Clone the repository, install dependencies, and run  
+##Thank You for Visiting!  
+### hope you founnd this project useful
+
 
 
 
