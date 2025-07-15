@@ -43,11 +43,11 @@ git clone https://github.com/Jeevan200431/PhishingWebsiteDetector.git
 cd PhishingWebsiteDetector
 ```
 -Install dependencies:  
-pip install -r requirements.txt  
+```pip install -r requirements.txt  ```
 -Traim model  
-python trainModel.py  
+``` python trainModel.py  ```
 -run streamlit app  
-streamlit run app.py  
+```streamlit run app.py ``` 
 
 
 
